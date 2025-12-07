@@ -13,3 +13,15 @@ The user plays against the computer, which randomly chooses rock, paper or sciss
 - Simple and beginner-friendly Python logic
 
 ![image alt](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/Rock_Papar_Scissor/Output.png?raw=true)
+
+- Computer selects its move using the `random` module  
+- Compares choices and displays the game result  
+- Handles invalid inputs for a smooth experience  
+- Lightweight and easy-to-run console game  
+
+## 🧠 Concepts Practiced
+- Conditional statements  
+- Random number generation  
+- User input validation  
+- Basic game logic and outcome evaluation  
+
