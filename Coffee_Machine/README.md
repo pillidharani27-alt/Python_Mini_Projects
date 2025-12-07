@@ -3,7 +3,8 @@
 A Python-based simulation of a simple coffee vending machine.
 This project demonstrates key programming concepts such as functions, loops, dictionaries, conditional logic, and resource management.
 It forms a strong foundation for understanding real-world machine logic and user interaction flow.
-![coffee screenshot](
+
+![coffee screenshot](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/Coffee_Machine/Coffee%20Screenshot.png?raw=true)
 
 🔧 Features
 
