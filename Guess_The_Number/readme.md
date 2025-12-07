@@ -12,4 +12,5 @@ A fun and interactive Python game where the player tries to guess a randomly gen
 - Attempt tracking  
 - Simple and beginner-friendly logic  
 
+![image alt](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/Guess_The_Number/output%201.png?raw=true)
 ![image alt](
