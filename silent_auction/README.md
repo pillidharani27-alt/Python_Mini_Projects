@@ -6,7 +6,7 @@
 A Python program that simulates a silent bidding auction.  
 Multiple participants enter their bids privately, and the program determines the highest bidder using dictionaries and loops.
 
-!image alt](
+![image alt](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/silent_auction/Silent_Auction%20screen%20shot.png?raw=true)
 
 ## ✨ Key Features
 - Stores bidders and amounts using dictionaries  
