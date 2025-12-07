@@ -1,3 +1,4 @@
+
 # 🐍 Python Mini Projects Collection
 
 This repository contains a collection of beginner-friendly Python mini projects created to practice core programming concepts such as loops, functions, conditionals, data structures, and logic building.  
@@ -93,5 +94,11 @@ Each folder contains the respective project .py file.
 
 This repo showcases my foundational Python skills and tracks my learning progress.
 These small projects helped me understand coding logic, problem-solving, and Python basics.
+
+📬 Connect With Me
+📬 Contact & Links
+- 🔗 GitHub: [pillidharani27-alt](https://github.com/pillidharani27-alt)
+- 🔗 LinkedIn:[LinkedIn Profile](https://www.linkedin.com/in/pillidharani)
+
 
 
