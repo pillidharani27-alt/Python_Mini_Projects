@@ -7,5 +7,7 @@
 - Addition, subtraction, multiplication, division  
 - User-friendly input prompts  
 - Error handling for invalid inputs  
-- Clean and simple logic structure 
+- Clean and simple logic structure
+
+![cal screenshot](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/Calculator/Calculator%20Screenshot.png?raw=true)
 
