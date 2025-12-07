@@ -3,7 +3,7 @@
 A simple and useful Python program that generates strong, randomized passwords.  
 This project demonstrates string handling, loops, lists, and the use of Python’s `random` module.
 
-
+![image alt](https://github.com/pillidharani27-alt/Python_Mini_Projects/blob/main/Password_Genarator/Password%20genarator.png?raw=true)
 
 ---
 
